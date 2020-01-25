@@ -41,6 +41,7 @@ a function nested in a function is a closure.
 new: has to do with constructors, global: for the window object, explicit: whenever you use call bind, apply, implicit:whenever a function is called by a preceding dot
 
 5. Why do we need super() in an extended class?
+it helps to get the stuff from that class
 
 ## Project Set up
 
